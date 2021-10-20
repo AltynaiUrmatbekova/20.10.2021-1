@@ -42,10 +42,64 @@ blockquote {
     background-color: chartreuse;
     margin: 10px 10px;
 }
-.deer {background-image: url(./олени.jpg);
-    height: 400px;
+.deer {background-image: url(./олени.jpg),url(./smile.jpg);
+    background-size:cover;
+    text-align: center;
+    background-position-x: center;
+    height: 800px;
     color: white;
-    background-position-y: center;
+    background-position: center;
     margin: 50px 50px;
+
  
+}
+.btn-1 {
+    background-color: yellow;
+    width: 300px;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    font-size: 32px;
+}
+.btn-big {
+    padding: 16px 32px;
+    font-size: 20px;
+}
+.bishkek {
+    float: right;
+}
+.ala-kol {
+    float: left;
+    margin: 10px 10px;
+}
+.flag {
+    float: right;
+}
+.jeti-oguz {
+    float: right;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+.sonkol {
+    float: left;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+.text-center {
+    text-align: center;
+}
+.text {
+    text-align: center;
+}
+.bishkek-1 {
+    float: left;
+    margin-right: 10px;
+}
+.deer-1 {
+    float: right;
+    margin-top: 100px;
+}
+.nature-2 {
+    float: left;
 }
